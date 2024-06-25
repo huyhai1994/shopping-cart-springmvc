@@ -7,6 +7,7 @@ import org.springframework.web.bind.annotation.SessionAttribute;
 import org.springframework.web.servlet.ModelAndView;
 import vn.codegym.model.Cart;
 
+/*TODO: - Lớp ShoppingController: để hiển thị và điều hướng ở trang cart*/
 @Controller
 public class ShoppingController {
 
